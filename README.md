@@ -4,7 +4,7 @@ This capstone project was a part of the IBM Data Science Professional Certificat
 
 ## Outline
 
-View the notebooks in the following order to view the project in the order it was completed:
+The following is the order in which the project was completed (to follow along):
 
 * spacex-data-collection-api.ipynb
 * spacex-web-scraping.ipynb
