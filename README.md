@@ -6,14 +6,14 @@ This capstone project was a part of the IBM Data Science Professional Certificat
 
 View the notebooks in the following order to view the project in the order it was completed:
 
-* SpaceX - Data Collection API
-* SpaceX - Web Scraping
-* SpaceX - Data Wrangling
-* SpaceX - SQL EDA
-* SpaceX - EDA DataViz
-* SpaceX - Folium Map
-* SpaceX - Dash App
-* SpaceX - Machine Learning Prediction
+* spacex-data-collection-api.ipynb
+* spacex-web-scraping.ipynb
+* spacex-data-wrangling.ipynb
+* spacex-sql-eda.ipynb
+* spacex-eda-dataviz.ipynb
+* spacex-folium.ipynb
+* spacex-dash-app.ipynb
+* spacex-machine-learning-prediction.ipynb
 
 ## Final Summary
 
