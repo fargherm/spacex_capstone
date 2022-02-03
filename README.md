@@ -17,4 +17,4 @@ View the notebooks in the following order to view the project in the order it wa
 
 ## Final Summary
 
-The attached presentation summarizes the work that was done in this project and the outcomes and conclusions. 
+The attached presentation (spacex_capstone_presentation.pdf) summarizes the work that was done in this project and the outcomes and conclusions. 
